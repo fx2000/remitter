@@ -1,0 +1,14 @@
+{
+    "name": "hispanoremesas/api",
+    "description": "PAR API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel Duque",
+            "email": "duque@outlook.com"
+        }
+    ],
+    "require": {
+        "katzgrau/klogger": "^1.2"
+    }
+}

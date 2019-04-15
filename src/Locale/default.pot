@@ -1,0 +1,1082 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-06-11 21:01+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppSettingController.php:81
+msgid "Image saved successfully"
+msgstr ""
+
+#: Controller/AppSettingController.php:87;213;301
+msgid "The image size limit is 5mb"
+msgstr ""
+
+#: Controller/AppSettingController.php:92;218;306
+msgid "Only JPG, JPEG and PNG images are allowed"
+msgstr ""
+
+#: Controller/AppSettingController.php:97
+msgid "Image upload failed"
+msgstr ""
+
+#: Controller/AppSettingController.php:130
+msgid "Image updated successfully"
+msgstr ""
+
+#: Controller/AppSettingController.php:159
+msgid "Image deleted successfully"
+msgstr ""
+
+#: Controller/AppSettingController.php:207
+msgid "Product saved successfully"
+msgstr ""
+
+#: Controller/AppSettingController.php:223
+msgid "Product creation failed"
+msgstr ""
+
+#: Controller/AppSettingController.php:290;316
+msgid "Product updated successfully"
+msgstr ""
+
+#: Controller/AppSettingController.php:337
+msgid "Product deleted successfully"
+msgstr ""
+
+#: Controller/BankController.php:93
+msgid "Bank added successfully"
+msgstr ""
+
+#: Controller/BankController.php:135
+msgid "Bank updated successfully"
+msgstr ""
+
+#: Controller/CpanelController.php:76
+msgid "Invalid Username and Password"
+msgstr ""
+
+#: Controller/CpanelController.php:136
+msgid "Profile updated successfully"
+msgstr ""
+
+#: Controller/CpanelController.php:173
+msgid "Password validation failed"
+msgstr ""
+
+#: Controller/CpanelController.php:181
+#: Controller/SettingController.php:327
+#: Controller/UserController.php:265
+msgid "Password changed successfully"
+msgstr ""
+
+#: Controller/CpanelController.php:190
+msgid "Password missmatch"
+msgstr ""
+
+#: Controller/CpanelController.php:204
+msgid "Sign out successful"
+msgstr ""
+
+#: Controller/CpanelController.php:220
+msgid "<span style='color:red;'>Your session has expired, please sign in to continue</span>"
+msgstr ""
+
+#: Controller/InventoryController.php:85
+#: Controller/RetailerController.php:423
+msgid "Account added successfully"
+msgstr ""
+
+#: Controller/InventoryController.php:175
+msgid "Minimum limit saved successfully"
+msgstr ""
+
+#: Controller/InventoryController.php:232
+#: Controller/RetailerController.php:511
+msgid "Account updated successfully"
+msgstr ""
+
+#: Controller/InventoryController.php:237
+msgid "Account update failed"
+msgstr ""
+
+#: Controller/InventoryController.php:268;763;818
+msgid "<option value=\"\">Select Account</option>"
+msgstr ""
+
+#: Controller/InventoryController.php:314;345;374;393
+msgid "<option value=\"\">Select Source</option>"
+msgstr ""
+
+#: Controller/InventoryController.php:636
+msgid "Movement successful"
+msgstr ""
+
+#: Controller/InventoryController.php:648
+msgid "Inventory movement failed"
+msgstr ""
+
+#: Controller/InventoryController.php:659
+#: Controller/RechargeController.php:261
+msgid "Insufficient funds"
+msgstr ""
+
+#: Controller/InventoryController.php:733
+msgid "<option value=\"\">Select Store</option>"
+msgstr ""
+
+#: Controller/InventoryController.php:790
+msgid "<option value=\"\">Select Destination</option>"
+msgstr ""
+
+#: Controller/InventoryController.php:862
+msgid "ClubPrepago - Airtime Movement"
+msgstr ""
+
+#: Controller/InventoryController.php:863
+msgid "Airtime movement done.<br/>Below are the details :-<br/>"
+msgstr ""
+
+#: Controller/InventoryController.php:864
+msgid "<b>Source<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:865
+msgid "<b>Source Account<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:866
+msgid "<b>Destination<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:867
+msgid "<b>Destination Account<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:868;915
+msgid "<b>Amount<b> :- $"
+msgstr ""
+
+#: Controller/InventoryController.php:869
+msgid "<b>Document No.<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:871
+msgid "<b>Notes<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:901
+msgid "Amount Credited"
+msgstr ""
+
+#: Controller/InventoryController.php:903
+msgid "Amount Debited"
+msgstr ""
+
+#: Controller/InventoryController.php:911
+msgid "ClubPrepago - "
+msgstr ""
+
+#: Controller/InventoryController.php:912
+msgid " Details :-<br/>"
+msgstr ""
+
+#: Controller/InventoryController.php:913
+msgid "<b>Retailer<b> :- "
+msgstr ""
+
+#: Controller/InventoryController.php:914
+msgid "<b>Account<b> :- "
+msgstr ""
+
+#: Controller/PaymentController.php:204
+msgid "Payment added successfully"
+msgstr ""
+
+#: Controller/PaymentController.php:273
+msgid "Payment updated successfully"
+msgstr ""
+
+#: Controller/PaymentController.php:347
+msgid "<option value=\"\">Select a Bank</option>"
+msgstr ""
+
+#: Controller/RechargeController.php:146;156
+msgid "No match Found"
+msgstr ""
+
+#: Controller/RechargeController.php:166
+msgid "Please enter transaction id and operator"
+msgstr ""
+
+#: Controller/RechargeController.php:222
+msgid "Recharge has been successful"
+msgstr ""
+
+#: Controller/RechargeController.php:240
+msgid "Improper MerchantID"
+msgstr ""
+
+#: Controller/RechargeController.php:243
+msgid "Improper CustomerPhoneNo"
+msgstr ""
+
+#: Controller/RechargeController.php:246
+msgid "Improper MerchantPIN"
+msgstr ""
+
+#: Controller/RechargeController.php:249
+msgid "The minimum amount should be "
+msgstr ""
+
+#: Controller/RechargeController.php:252
+msgid "The maximum amount should be "
+msgstr ""
+
+#: Controller/RechargeController.php:255
+msgid "Operation not supported or data inconsistency"
+msgstr ""
+
+#: Controller/RechargeController.php:258
+msgid "Remote system unavailable"
+msgstr ""
+
+#: Controller/RechargeController.php:264
+msgid "Duplicate Transaction"
+msgstr ""
+
+#: Controller/RechargeController.php:267
+msgid "Missing MerchantID, CustomerPhoneNo, MerchantPIN or TopupAmt"
+msgstr ""
+
+#: Controller/RechargeController.php:270
+msgid "Improper ProductID"
+msgstr ""
+
+#: Controller/RechargeController.php:273
+msgid "Merchant account has been disabled"
+msgstr ""
+
+#: Controller/RechargeController.php:276
+msgid "Improper Terminal"
+msgstr ""
+
+#: Controller/RechargeController.php:279
+msgid "Something went wrong"
+msgstr ""
+
+#: Controller/RecipientController.php:145
+msgid "Recipient updated successfully"
+msgstr ""
+
+#: Controller/RecipientController.php:192
+#: Controller/UserController.php:158
+msgid "User already exists"
+msgstr ""
+
+#: Controller/RecipientController.php:199
+#: Controller/SettingController.php:203
+#: Controller/UserController.php:165
+msgid "User added successfully"
+msgstr ""
+
+#: Controller/RemittanceController.php:292
+msgid "Remittance added successfully"
+msgstr ""
+
+#: Controller/RemittanceController.php:364;467
+msgid "Remittance updated successfully"
+msgstr ""
+
+#: Controller/RemittanceController.php:517
+msgid "<option value=\"\">Select a Recipient</option>"
+msgstr ""
+
+#: Controller/RemittanceController.php:606
+msgid "Remittance reserved successfully"
+msgstr ""
+
+#: Controller/RemittanceController.php:701
+msgid "Operation now is in progress"
+msgstr ""
+
+#: Controller/RemittanceController.php:729
+msgid "Remittance deleted successfully"
+msgstr ""
+
+#: Controller/ReportController.php:225;562;859;1162;1439;1689;1920;2208
+msgid "No records found"
+msgstr ""
+
+#: Controller/ReportController.php:248
+msgid "<option value=\"\">Select User</option>"
+msgstr ""
+
+#: Controller/ReportController.php:378
+msgid "TransactionId,Retailer,Store,User,Channel,Operator,Mobileno,Amount,Datetime,Status,Response"
+msgstr ""
+
+#: Controller/ReportController.php:673
+msgid "TransactionId,Retailer,Store,User,Channel,Operator,Mobileno,Amount,Datetime"
+msgstr ""
+
+#: Controller/ReportController.php:964
+msgid "Retailer,Operator,Datetime,Recharges,Total Amount"
+msgstr ""
+
+#: Controller/ReportController.php:1254
+msgid "Retailer,Store,Operator,Datetime,Recharges,Total Amount"
+msgstr ""
+
+#: Controller/ReportController.php:1543
+msgid "Retailer,Store,User,Operator,Datetime,Recharges,Total Amount"
+msgstr ""
+
+#: Controller/ReportController.php:1763
+msgid "Retailer,Store,AccountId,Operator,Balance"
+msgstr ""
+
+#: Controller/RetailerController.php:109
+msgid "Retailer saved successfully"
+msgstr ""
+
+#: Controller/RetailerController.php:112
+msgid "Error occured while saving retailer"
+msgstr ""
+
+#: Controller/RetailerController.php:116
+msgid "Email already exists"
+msgstr ""
+
+#: Controller/RetailerController.php:297
+msgid "Retailer updated successfully"
+msgstr ""
+
+#: Controller/RetailerController.php:307
+msgid "Error updated"
+msgstr ""
+
+#: Controller/RetailerController.php:313
+msgid "Error occured while updating retailer"
+msgstr ""
+
+#: Controller/RetailerController.php:351
+msgid "Retailer deleted successfully"
+msgstr ""
+
+#: Controller/RetailerController.php:374;496
+msgid "A credit limit is required for postpaid accounts"
+msgstr ""
+
+#: Controller/RetailerController.php:427
+msgid "An error occured while adding accounts"
+msgstr ""
+
+#: Controller/RetailerController.php:443
+#: Controller/StoreController.php:524
+msgid "Postpaid"
+msgstr ""
+
+#: Controller/RetailerController.php:444
+#: Controller/StoreController.php:525
+msgid "Prepaid"
+msgstr ""
+
+#: Controller/RetailerController.php:447
+#: Controller/StoreController.php:272
+msgid "N/A"
+msgstr ""
+
+#: Controller/RetailerController.php:448
+#: Controller/StoreController.php:273
+msgid "Shared"
+msgstr ""
+
+#: Controller/RetailerController.php:449
+#: Controller/StoreController.php:274
+msgid "Individual"
+msgstr ""
+
+#: Controller/RetailerController.php:521
+msgid "An error occured while updating account"
+msgstr ""
+
+#: Controller/RetailerController.php:526
+msgid "Account ID already exists"
+msgstr ""
+
+#: Controller/RetailerController.php:557
+msgid "Account deleted successfully"
+msgstr ""
+
+#: Controller/RetailerController.php:567
+msgid "An error occured while deleting account"
+msgstr ""
+
+#: Controller/RetailerController.php:700
+msgid "Operator unassignment successful"
+msgstr ""
+
+#: Controller/RetailerController.php:710
+msgid "Operator unassignment unsuccessful"
+msgstr ""
+
+#: Controller/SettingController.php:99
+msgid "Settings updated successfully"
+msgstr ""
+
+#: Controller/SettingController.php:133
+msgid "Operator status changed successfully"
+msgstr ""
+
+#: Controller/SettingController.php:136
+msgid "Operator could not be changed"
+msgstr ""
+
+#: Controller/SettingController.php:196
+msgid "Bank already exists"
+msgstr ""
+
+#: Controller/SettingController.php:238
+msgid "Platform updated successfully"
+msgstr ""
+
+#: Controller/SettingController.php:247
+msgid "An error occured while updating platform"
+msgstr ""
+
+#: Controller/SettingController.php:266
+msgid "Platform detail updated successfully"
+msgstr ""
+
+#: Controller/SettingController.php:275
+msgid "Platform details not updated successfully"
+msgstr ""
+
+#: Controller/SettingController.php:336
+msgid "Password change failed"
+msgstr ""
+
+#: Controller/SettingController.php:341
+#: Controller/UserController.php:276
+msgid "Passwords do not match"
+msgstr ""
+
+#: Controller/SettingController.php:358
+msgid "Notification details saved successfully"
+msgstr ""
+
+#: Controller/SettingController.php:361
+msgid "Notification details not saved successfully"
+msgstr ""
+
+#: Controller/SettingController.php:401
+msgid "Setting detail saved successfully"
+msgstr ""
+
+#: Controller/SettingController.php:404
+msgid "Setting detail could not be saved"
+msgstr ""
+
+#: Controller/SettingController.php:480
+msgid "Developer details saved successfully"
+msgstr ""
+
+#: Controller/SettingController.php:483
+msgid "Developer details could not be saved"
+msgstr ""
+
+#: Controller/SettingController.php:522
+msgid "Developer deleted successfully"
+msgstr ""
+
+#: Controller/SettingController.php:539
+msgid "Retailer email setting deleted successfully"
+msgstr ""
+
+#: Controller/StoreController.php:185
+msgid "Store saved successfully"
+msgstr ""
+
+#: Controller/StoreController.php:189
+msgid "Error occured while saving store"
+msgstr ""
+
+#: Controller/StoreController.php:277
+msgid "Web"
+msgstr ""
+
+#: Controller/StoreController.php:278
+msgid "Mobile"
+msgstr ""
+
+#: Controller/StoreController.php:279
+msgid "Both"
+msgstr ""
+
+#: Controller/StoreController.php:439
+msgid "Store updated successfully"
+msgstr ""
+
+#: Controller/StoreController.php:449
+msgid "An error occured while updating store"
+msgstr ""
+
+#: Controller/StoreController.php:496
+msgid "Store deleted successfully"
+msgstr ""
+
+#: Controller/UserController.php:220
+msgid "User updated successfully"
+msgstr ""
+
+#: Controller/UserController.php:298
+msgid "User deleted successfully"
+msgstr ""
+
+#: Controller/WebSaleController.php:197
+msgid "Recharge successfull"
+msgstr ""
+
+#: Controller/WebSaleController.php:206
+msgid "Recharge failed"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:91
+msgid "File type not allowed"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:100
+msgid "Could not move "
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:100;346
+msgid " to "
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:113
+msgid "Invalid \"rules\" parameter"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:116
+msgid "GD library is not installed"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:120
+msgid "Possible file upload attack on "
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:124
+msgid "Possible file upload attack"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:172
+msgid "Max scale must be set"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:176
+msgid "Size width and height must be set"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:180
+msgid "Provide only one number for size"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:184
+msgid "Cannot output file as "
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:199;205
+msgid "File type must be GIF, PNG, or JPG to resize"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:313
+msgid "Resize function \\\"$type\\\" does not exist"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:346
+msgid "Could not write "
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:400
+msgid "The uploaded file exceeds the upload_max_filesize directive ("
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:400
+msgid ") in php.ini."
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:401
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:402
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:403
+msgid "No file was uploaded."
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:404
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:405
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: Controller/Component/ImageUploadComponent.php:406
+msgid "Unknown File Error"
+msgstr ""
+
+#: Template/AppSetting/add_product.ctp:26
+msgid " Add Product"
+msgstr ""
+
+#: Template/AppSetting/add_product.ctp:32;34
+msgid "Select Operator"
+msgstr ""
+
+#: Template/AppSetting/add_product.ctp:46
+msgid "Choose Barcode Image"
+msgstr ""
+
+#: Template/AppSetting/add_product.ctp:53
+msgid "Barcode"
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:7
+#: Template/Cpanel/admin_change_pwd.ctp:18
+#: Template/Cpanel/change_pwd.ctp:21
+msgid "Change Password"
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:39
+#: Template/Cpanel/admin_change_pwd.ctp:50
+#: Template/Cpanel/change_pwd.ctp:46
+msgid " Change Password"
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:44
+#: Template/Cpanel/admin_change_pwd.ctp:55
+msgid ""
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:59;70
+#: Template/Cpanel/admin_change_pwd.ctp:89;100
+#: Template/Cpanel/change_pwd.ctp:89;90
+msgid "New Password"
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:82;93
+#: Template/Cpanel/admin_change_pwd.ctp:112;123
+#: Template/Cpanel/change_pwd.ctp:111;112
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Cpanel/admin_change_password.ctp:107
+#: Template/Cpanel/admin_change_pwd.ctp:137
+msgid "Submit"
+msgstr ""
+
+#: Template/Cpanel/admin_change_pwd.ctp:6
+#: Template/Cpanel/admin_profile.ctp:6
+msgid "Home"
+msgstr ""
+
+#: Template/Cpanel/admin_change_pwd.ctp:67;78
+#: Template/Cpanel/change_pwd.ctp:68;69
+msgid "Old Password"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:30
+msgid "<span class=\"icon32 icon-blue icon-asterisk1\"></span><div>Manage Retailers</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:37
+msgid "Manage Retailers"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:48
+msgid "<span class=\"icon32 icon-blue icon-briefcase\"></span><div>Manage Stores</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:56
+msgid "Manage Stores"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:67
+msgid "<span class=\"icon32 icon-blue icon-document\"></span><div>Report</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:74
+msgid "Reports"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:85
+msgid "<span class=\"icon32 icon-blue icon-star-off\"></span><div>Inventory</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:92
+msgid "Inventory"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:105
+msgid "<span class=\"icon32 icon-blue icon-info\"></span><div>Recharge Status</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:112
+msgid "Recharge Status"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:123
+msgid "<span class=\"icon32 icon-blue icon-gear\"></span><div>Settings</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:130
+msgid "Settings"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:141
+msgid "<span class=\"icon32 icon-blue icon-gear\"></span><div>App Settings</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:148
+msgid "App Settings"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:159
+msgid "<span class=\"icon32 icon-blue icon-user\"></span><div>Manage Users</div>"
+msgstr ""
+
+#: Template/Cpanel/admin_home.ctp:167
+msgid "Manage Users"
+msgstr ""
+
+#: Template/Cpanel/admin_index.ctp:19
+msgid "HispanoRemesas | PAR"
+msgstr ""
+
+#: Template/Cpanel/admin_index.ctp:32
+msgid "Admin Login"
+msgstr ""
+
+#: Template/Cpanel/admin_index.ctp:51
+msgid "Please login with your Username and Password"
+msgstr ""
+
+#: Template/Cpanel/admin_profile.ctp:50
+msgid " Edit Profile"
+msgstr ""
+
+#: Template/Cpanel/admin_profile.ctp:67
+msgid " Username "
+msgstr ""
+
+#: Template/Cpanel/admin_profile.ctp:89
+#: Template/Cpanel/index.ctp:47
+#: Template/Cpanel/profile.ctp:87;88
+msgid "Email"
+msgstr ""
+
+#: Template/Cpanel/change_pwd.ctp:4
+#: Template/Cpanel/profile.ctp:4
+#: Template/Remittance/add.ctp:120
+#: Template/Remittance/edit.ctp:23
+#: Template/Remittance/index.ctp:27
+#: Template/Remittance/index_investor.ctp:24
+msgid "Dashboard / "
+msgstr ""
+
+#: Template/Cpanel/change_pwd.ctp:13
+#: Template/Cpanel/profile.ctp:13
+msgid "Profile / "
+msgstr ""
+
+#: Template/Cpanel/home.ctp:32
+msgid "Dashboard"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:52
+msgid "<i class='fas fa-paper-plane fa-2x'></i><h5 class='title'>Add Remittance</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:54
+msgid "Remittance"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:59
+#: Template/Remittance/add.ctp:138
+msgid "Add Remittance"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:67
+msgid "<i class='fas fa-user fa-2x'></i><h5 class='title'>Add Customer</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:75
+msgid "Add User"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:83
+msgid "<i class='fas fa-briefcase fa-2x'></i><h5 class='title'>Add Investor</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:91
+msgid "Add Investor"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:99
+msgid "<i class='fas fa-money-bill-alt fa-2x'></i><h5 class='title'>Apply Payment</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:106
+msgid "Apply Payment"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:214
+msgid "<h5 class=\"card-title\">My Payments</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:216
+msgid "<h5 class=\"card-title\">Payments</h5>"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:219
+msgid "Lastest Payment Transactions"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:226
+msgid " Pending"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:227
+msgid " Approved"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:228
+msgid " Denied"
+msgstr ""
+
+#: Template/Cpanel/home.ctp:232
+msgid " Updated 3 minutes ago"
+msgstr ""
+
+#: Template/Cpanel/index.ctp:8
+msgid "Currency Exchange Platform"
+msgstr ""
+
+#: Template/Cpanel/index.ctp:34
+msgid "<b>Hispano</b>Remesas"
+msgstr ""
+
+#: Template/Cpanel/index.ctp:61
+msgid "Contraseña"
+msgstr ""
+
+#: Template/Cpanel/profile.ctp:21
+msgid "Edit Profile"
+msgstr ""
+
+#: Template/Cpanel/profile.ctp:44
+#: Template/Remittance/edit.ctp:54
+msgid " Edit Remittance"
+msgstr ""
+
+#: Template/Cpanel/profile.ctp:66;67
+msgid "Username"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Remittance/add.ctp:129
+msgid "Remittances / "
+msgstr ""
+
+#: Template/Remittance/add.ctp:167
+msgid " Add Remittance"
+msgstr ""
+
+#: Template/Remittance/add.ctp:172
+#: Template/Remittance/index.ctp:51
+msgid "<div class=\"pull-right\"><i class=\"fas fa-money-bill-alt\"></i> Today's Rate: "
+msgstr ""
+
+#: Template/Remittance/add.ctp:189
+msgid "Customers"
+msgstr ""
+
+#: Template/Remittance/add.ctp:193
+msgid "Select a Customer"
+msgstr ""
+
+#: Template/Remittance/add.ctp:240
+msgid "Recipients"
+msgstr ""
+
+#: Template/Remittance/add.ctp:249
+#: Template/Remittance/edit.ctp:87
+msgid "Recipient"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:96
+msgid " Apply Remittance"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:109;156
+#: Template/Remittance/confirm.ctp:55
+msgid "Panamá"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:120
+#: Template/Remittance/confirm.ctp:66
+msgid "<tr><td>Recipient's Name</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:121
+#: Template/Remittance/confirm.ctp:67
+msgid "<tr><td>Tax ID</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:122
+#: Template/Remittance/confirm.ctp:68
+msgid "<tr><td>Passport</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:125
+#: Template/Remittance/confirm.ctp:71
+msgid "<tr><td>Country</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:128
+#: Template/Remittance/confirm.ctp:74
+msgid "<tr><td>Bank</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:131
+#: Template/Remittance/confirm.ctp:77
+msgid "<tr><td>Account Type</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:134
+#: Template/Remittance/confirm.ctp:80
+msgid "<tr><td>Account Number</td><td>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:137
+#: Template/Remittance/confirm.ctp:83
+msgid "<tr><td><b>Amount to Deposit</b></td><td><b>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:170
+#: Template/Remittance/confirm.ctp:116
+msgid "<b><h3>Amount to Receive</h3></b><b><h3>"
+msgstr ""
+
+#: Template/Remittance/apply.ctp:190
+#: Template/Remittance/confirm.ctp:136
+msgid "Enter Bank Transfer Information"
+msgstr ""
+
+#: Template/Remittance/confirm.ctp:43
+msgid " Edit Purchase"
+msgstr ""
+
+#: Template/Remittance/edit.ctp:72
+msgid "Client"
+msgstr ""
+
+#: Template/Remittance/edit.ctp:101
+msgid "Investor"
+msgstr ""
+
+#: Template/Remittance/edit.ctp:125;127
+msgid "Status"
+msgstr ""
+
+#: Template/Remittance/edit.ctp:140
+msgid "Save"
+msgstr ""
+
+#: Template/Remittance/index.ctp:3
+msgid "You can't edit this remittance"
+msgstr ""
+
+#: Template/Remittance/index.ctp:53
+msgid "<i class='fas fa-plus'></i> Add Remittance"
+msgstr ""
+
+#: Template/Remittance/index.ctp:71
+msgid " Remittances"
+msgstr ""
+
+#: Template/Remittance/index.ctp:117
+msgid "<i class='fas fa-pencil-alt'></i> Apply"
+msgstr ""
+
+#: Template/Remittance/index.ctp:200
+#: Template/Remittance/index_investor.ctp:105
+msgid "<i class='fa fa-circle text-info'></i> Disponible"
+msgstr ""
+
+#: Template/Remittance/index.ctp:202
+#: Template/Remittance/index_investor.ctp:107
+msgid "<i class='fa fa-circle text-danger'></i> Reservada"
+msgstr ""
+
+#: Template/Remittance/index.ctp:204
+#: Template/Remittance/index_investor.ctp:109
+msgid "<i class='fa fa-circle text-warning'></i> En Progreso"
+msgstr ""
+
+#: Template/Remittance/index.ctp:206
+#: Template/Remittance/index_investor.ctp:111
+msgid "<i class='fa fa-circle text-success'></i> Completada"
+msgstr ""
+
+#: Template/Remittance/index.ctp:208
+msgid "<i class='fa fa-circle text-success'></i> Cancelada"
+msgstr ""
+
+#: Template/Remittance/index.ctp:210
+#: Template/Remittance/index_investor.ctp:113
+msgid "Other"
+msgstr ""
+
+#: Template/Remittance/index.ctp:218;232
+msgid "<i class='fas fa-pencil-alt'></i> Edit"
+msgstr ""
+
+#: Template/Remittance/index.ctp:253
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: Template/Remittance/index_investor.ctp:33
+msgid "My Purchases"
+msgstr ""
+
+#: Template/Remittance/index_investor.ctp:46
+msgid " Mis Compras"
+msgstr ""
+
+#: Template/Remittance/index_investor.ctp:121
+msgid "<i class='fas fa-pencil-alt'></i> Confirm"
+msgstr ""
+
