@@ -395,10 +395,10 @@ table,td,img{min-width:0!important;}
                                   </td>
                                 </tr><!-- end space --></table><!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]--><table border="0" align="right" cellpadding="0" cellspacing="0" class="container2" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td valign="top" align="center">
                                     <table border="0" align="center" cellpadding="0" cellspacing="0" style="margin: 0px auto;"><tr><td align="center" valign="middle" id="clear-padding" width="30" style="width: 30px; line-height: 0px;">
-                                          <a href="https://www.facebook.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://www.hispanoremesas.com/assets/img/email/icon-facebook.png" width="30" alt="icon-facebook" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                          <a href="https://www.facebook.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://remitter.appstic.net/assets/img/email/icon-facebook.png" width="30" alt="icon-facebook" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                         </td>
                                         <td s="" align="center" valign="middle" id="clear-padding" width="30" style="width: 30px; line-height: 0px;">
-                                          <a href="https://www.twitter.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://www.hispanoremesas.com/assets/img/email/icon-twitter.png" width="30" alt="icon-twitter" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                          <a href="https://www.twitter.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://remitter.appstic.net/assets/img/email/icon-twitter.png" width="30" alt="icon-twitter" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                         </td>
                                         
                                         
@@ -406,7 +406,7 @@ table,td,img{min-width:0!important;}
                                         
                                         
                                         <td align="center" valign="middle" id="clear-padding" width="30" style="width: 30px; line-height: 0px;">
-                                          <a href="https://www.instagram.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://www.hispanoremesas.com/assets/img/email/icon-instagram.png" width="30" alt="icon-instagram" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                          <a href="https://www.instagram.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://remitter.appstic.net/assets/img/email/icon-instagram.png" width="30" alt="icon-instagram" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                         </td>
                                       </tr></table></td>
                                 </tr></table></td>
@@ -420,7 +420,7 @@ table,td,img{min-width:0!important;}
         </tr><!--END VIEW ONLINE AND ICON SOCAIL--><!--START BORDER OF LAYOUT --><tr><td width="100%" align="center" valign="top" style="background-color: #00adbb;" bgcolor="#00adbb">
             <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" style="height: 20px; background-color: #ffffff; opacity: 0.5; min-width: 600px; margin: 0px auto;" bgcolor="#ffffff"><tr><td valign="top" height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
               </tr><tr><td valign="top" align="center" height="1" class="image-100-percent" width="600" style="width: 600px; height: 1px; font-size: 1px; line-height: 0px;">
-                <img src="https://www.hispanoremesas.com/assets/img/email/space.png" width="600" alt="space" style="display: block !important; max-height: 1px; max-width: 600px;"></td>
+                <img src="https://remitter.appstic.net/assets/img/email/space.png" width="600" alt="space" style="display: block !important; max-height: 1px; max-width: 600px;"></td>
               </tr></table></td>
         </tr><!--END BORDER OF LAYOUT --><!--START TOP NAVIGATION ​LAYOUT--><tr><td valign="top" style="background-color: #ececec;" bgcolor="#ececec">
             <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color: #ececec; margin: 0px auto;" bgcolor="#ececec"><!-- START CONTAINER NAVIGATION --><tr><td align="center" valign="top">
@@ -433,14 +433,14 @@ table,td,img{min-width:0!important;}
                           </tr><!-- end space --><tr><td valign="middle">
                               
                               <table align="left" border="0" cellspacing="0" cellpadding="0" class="container2" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td align="center" valign="top" width="200" style="width: 200px; line-height: 0px;">
-                                    <a href="https://www.hispanoremesas.com" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://www.hispanoremesas.com/assets/img/email/horizontal.png" width="200" style="max-width: 200px; display: block !important; width: 200px; height: auto;" alt="Logo" border="0" hspace="0" vspace="0" height="auto"></a>
+                                    <a href="https://remitter.appstic.net" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0"><img src="https://remitter.appstic.net/assets/img/email/horizontal.png" width="200" style="max-width: 200px; display: block !important; width: 200px; height: auto;" alt="Logo" border="0" hspace="0" vspace="0" height="auto"></a>
                                   </td>
                                   
                                 </tr><!-- start space --><tr><td valign="top" class="increase-Height-20">
                                   </td>
                                 </tr><!-- end space --></table><!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]--><table border="0" align="right" cellpadding="0" cellspacing="0" class="container2" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><!--start call us --><tr><td valign="middle" align="center">
                                     
-                                    <table align="right" border="0" cellpadding="0" cellspacing="0" class="clear-align" style="height:100%;mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="font-size: 13px; color: #a3a2a2; font-weight: normal; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif; word-break: break-word; line-height: 24px;" align="center"><span style="color: #a3a2a2; text-decoration: none; font-style: normal; text-align: center; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;"> <a href="https://www.hispanoremesas.com/#why" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://www.hispanoremesas.com/#why" border="0">¿POR QUÉ NOSOTROS?&nbsp;&nbsp;</a> <a href="https://www.hispanoremesas.com/#how" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://www.hispanoremesas.com/#how" border="0">¿CÓMO FUNCIONA?&nbsp;&nbsp;</a> <a href="https://www.hispanoremesas.com/#contact" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://www.hispanoremesas.com/#contact" border="0">CONTÁCTANOS</a> </span></td>
+                                    <table align="right" border="0" cellpadding="0" cellspacing="0" class="clear-align" style="height:100%;mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="font-size: 13px; color: #a3a2a2; font-weight: normal; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif; word-break: break-word; line-height: 24px;" align="center"><span style="color: #a3a2a2; text-decoration: none; font-style: normal; text-align: center; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;"> <a href="https://remitter.appstic.net/#why" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://remitter.appstic.net/#why" border="0">¿POR QUÉ NOSOTROS?&nbsp;&nbsp;</a> <a href="https://remitter.appstic.net/#how" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://remitter.appstic.net/#how" border="0">¿CÓMO FUNCIONA?&nbsp;&nbsp;</a> <a href="https://remitter.appstic.net/#contact" style="color: #a3a2a2; text-decoration: none !important; border-style: none; line-height: 24px; font-size: 10px; font-weight: 400; font-family: Arail, Tahoma, Helvetica, Arial, sans-serif;" data-mce-href="https://remitter.appstic.net/#contact" border="0">CONTÁCTANOS</a> </span></td>
                                       </tr></table></td>
                                 </tr><!--end call us --></table></td>
                           </tr><!-- start space --><tr><td valign="top" height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
@@ -451,8 +451,8 @@ table,td,img{min-width:0!important;}
             <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width" style="background-color: #ececec; margin: 0px auto;" bgcolor="#ececec"><tr><td class="full-width" width="100%" align="center" valign="top">
                   <!-- start header container -->
                   <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width" style="background-color: #ffffff; min-width: 600px; margin: 0px auto;" bgcolor="#ffffff"><tr><td valign="top" align="center" width="600" style="width: 600px; line-height: 0px;">
-                        <a href="https://www.hispanoremesas.com" style="font-size: inherit; border-style: none; text-decoration: none !important;" data-mce-href="https://www.hispanoremesas.com" border="0">
-                          <img class="image-100-percent" src="https://www.hispanoremesas.com/assets/img/email/banner_600x300.png" width="600" alt="image_header_600x300" style="max-width: 600px; display: block !important; width: 600px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                        <a href="https://remitter.appstic.net" style="font-size: inherit; border-style: none; text-decoration: none !important;" data-mce-href="https://remitter.appstic.net" border="0">
+                          <img class="image-100-percent" src="https://remitter.appstic.net/assets/img/email/banner_600x300.png" width="600" alt="image_header_600x300" style="max-width: 600px; display: block !important; width: 600px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                       </td>
                     </tr></table><!-- end header container --></td>
               </tr></table></td>
@@ -480,7 +480,7 @@ table,td,img{min-width:0!important;}
               </tr></table><!-- end layout-1 container width 600px --></td>
         </tr><!-- END LAYOUT 1 --><!-- START HEIGHT SPACE 20PX--><tr><td valign="top" align="center" style="background-color: #ececec;" bgcolor="#ececec">
             <table width="100%" height="20" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color: #ececec; margin: 0px auto;" bgcolor="#ececec"><tr><td valign="top" height="20" align="center" class="image-100-percent" width="600" style="width: 600px; height: 20px; font-size: 1px; line-height: 0px;">
-                <img src="https://www.hispanoremesas.com/assets/img/email/space.png" width="600" alt="space" style="display:block !important; max-height:20px; max-width:600px;"></td>
+                <img src="https://remitter.appstic.net/assets/img/email/space.png" width="600" alt="space" style="display:block !important; max-height:20px; max-width:600px;"></td>
               </tr></table></td>
         </tr><!-- END HEIGHT SPACE 20PX--><!-- START LAYOUT 11 --><tr><td align="center" valign="top" style="background-color: #ececec;" bgcolor="#ececec">
             <!-- start layout-11 container width 600px -->
@@ -491,7 +491,7 @@ table,td,img{min-width:0!important;}
                         <table width="170" border="0" cellspacing="0" cellpadding="0" align="left" class="col-3" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td width="100" valign="top" align="center" style="width: 100px; line-height: 0px;">
                               
-                                <img src="https://www.hispanoremesas.com/assets/img/email/badge_money.png" width="100" alt="image1_64x64" style="max-width: 100px; display: block !important; width: 100px; height: auto;" border="0" hspace="0" vspace="0" height="auto">
+                                <img src="https://remitter.appstic.net/assets/img/email/badge_money.png" width="100" alt="image1_64x64" style="max-width: 100px; display: block !important; width: 100px; height: auto;" border="0" hspace="0" vspace="0" height="auto">
                             </td>
                           </tr><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td>
@@ -506,7 +506,7 @@ table,td,img{min-width:0!important;}
                           </tr></table><!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]--><table width="170" border="0" cellspacing="0" cellpadding="0" align="left" class="col-3" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td width="100" valign="top" align="center" style="width: 100px; line-height: 0px;">
                               
-                                <img src="https://www.hispanoremesas.com/assets/img/email/badge_shield_gold.png" width="100" alt="image2_64x64.png" style="max-width: 100px; height: auto; display: block !important;" border="0" hspace="0" vspace="0" height="auto">
+                                <img src="https://remitter.appstic.net/assets/img/email/badge_shield_gold.png" width="100" alt="image2_64x64.png" style="max-width: 100px; height: auto; display: block !important;" border="0" hspace="0" vspace="0" height="auto">
                             </td>
                           </tr><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td>
@@ -521,7 +521,7 @@ table,td,img{min-width:0!important;}
                           </tr></table><!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]--><table width="170" border="0" cellspacing="0" cellpadding="0" align="left" class="col-3-last" style="mso-table-lspace:0pt; mso-table-rspace:0pt;"><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td width="100" valign="top" align="center" style="width: 100px; line-height: 0px;">
                               
-                                <img src="https://www.hispanoremesas.com/assets/img/email/badge_bag.png" width="100" alt="image3_64x64" style="max-width: 100px; height: auto; display: block !important;" border="0" hspace="0" vspace="0" height="auto">
+                                <img src="https://remitter.appstic.net/assets/img/email/badge_bag.png" width="100" alt="image3_64x64" style="max-width: 100px; height: auto; display: block !important;" border="0" hspace="0" vspace="0" height="auto">
                             </td>
                           </tr><!--start space height --><tr><td height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
                           </tr><!--end space height --><tr><td>
@@ -535,7 +535,7 @@ table,td,img{min-width:0!important;}
               </tr></table><!-- end layout-11 container width 600px --></td>
         </tr><!-- END LAYOUT 11 --><!-- START HEIGHT SPACE 20PX--><tr><td valign="top" align="center" style="background-color: #ececec;" bgcolor="#ececec">
             <table width="100%" height="20" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color: #ececec; margin: 0px auto;" bgcolor="#ececec"><tr><td valign="top" height="20" align="center" class="image-100-percent" width="600" style="width: 600px; height: 20px; font-size: 1px; line-height: 0px;">
-                <img src="https://www.hispanoremesas.com/assets/img/email/space.png" width="600" alt="space" style="display:block !important; max-height:20px; max-width:600px;"></td>
+                <img src="https://remitter.appstic.net/assets/img/email/space.png" width="600" alt="space" style="display:block !important; max-height:20px; max-width:600px;"></td>
               </tr></table></td>
         </tr><!-- END HEIGHT SPACE 20PX--><!-- START LAYOUT-14 --><tr><td align="center" valign="top" style="background-color: #ececec;" bgcolor="#ececec">
             <!-- start layout-14 container width 600px -->
@@ -546,12 +546,12 @@ table,td,img{min-width:0!important;}
                         <!--start icon socail navigation -->
                         <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="container" style="margin: 0px auto;"><tr><td valign="top" align="center">
                               <table border="0" align="center" cellpadding="0" cellspacing="0" style="margin: 0px auto;"><tr><td height="30" align="center" valign="middle" class="clear-padding" width="30" style="width: 30px; height: 30px; font-size: 1px; line-height: 0px;">
-                                    <a href="https://www.facebook.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
-                                      <img src="https://www.hispanoremesas.com/assets/img/email/icon-facebook-gray.png" width="30" alt="icon-facebook" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                    <a href="https://www.facebook.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
+                                      <img src="https://remitter.appstic.net/assets/img/email/icon-facebook-gray.png" width="30" alt="icon-facebook" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                   </td>
                                   <td style="padding-left: 5px; width: 30px; height: 30px; font-size: 1px; line-height: 0px;" height="30" align="center" valign="middle" class="clear-padding" width="30">
-                                    <a href="https://www.twitter.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
-                                      <img src="https://www.hispanoremesas.com/assets/img/email/icon-twitter-gray.png" width="30" alt="icon-twitter" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                    <a href="https://www.twitter.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
+                                      <img src="https://remitter.appstic.net/assets/img/email/icon-twitter-gray.png" width="30" alt="icon-twitter" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                   </td>
                                   
                                   
@@ -559,8 +559,8 @@ table,td,img{min-width:0!important;}
                                   
                                   
                                   <td style="padding-left: 5px; width: 30px; height: 30px; font-size: 1px; line-height: 0px;" height="30" align="center" valign="middle" class="clear-padding" width="30">
-                                    <a href="https://www.instagram.com/HispanoRemesas" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
-                                      <img src="https://www.hispanoremesas.com/assets/img/email/icon-instagram-gray.png" width="30" alt="icon-instagram" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
+                                    <a href="https://www.instagram.com/remitter" style="font-size: inherit; border-style: none; text-decoration: none !important;" border="0">
+                                      <img src="https://remitter.appstic.net/assets/img/email/icon-instagram-gray.png" width="30" alt="icon-instagram" style="max-width: 30px; display: block !important; width: 30px; height: auto;" border="0" hspace="0" vspace="0" height="auto"></a>
                                   </td>
                                 </tr></table></td>
                           </tr></table><!--end icon socail navigation --></td>
@@ -570,12 +570,12 @@ table,td,img{min-width:0!important;}
         </tr><!-- END LAYOUT-14--><!--START BORDER OF LAYOUT --><tr><td width="100%" align="center" valign="top" style="background-color: #00adbb;" bgcolor="#00adbb">
             <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" style="height: 20px; background-color: #ffffff; opacity: 0.5; min-width: 600px; margin: 0px auto;" bgcolor="#ffffff"><tr><td valign="top" height="20" style="height: 20px; font-size: 1px; line-height: 1px;">&nbsp;</td>
               </tr><tr><td valign="top" align="center" height="1" class="image-100-percent" width="600" style="width: 600px; height: 1px; font-size: 1px; line-height: 0px;">
-                <img src="https://www.hispanoremesas.com/assets/img/email/space.png" width="600" alt="space" style="display: block !important; max-height: 1px; max-width: 600px;"></td>
+                <img src="https://remitter.appstic.net/assets/img/email/space.png" width="600" alt="space" style="display: block !important; max-height: 1px; max-width: 600px;"></td>
               </tr></table></td>
         </tr><!--END BORDER OF LAYOUT --><tr><td align="center" valign="top" style="background-color: #00adbb;" bgcolor="#00adbb">
             <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color: #00adbb; min-width: 600px; margin: 0px auto;" bgcolor="#00adbb"><tr><td valign="top">
                   <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width" style="margin: 0px auto;"><!--start space height --><tr><td height="10" style="height: 10px; font-size: 1px; line-height: 1px;"></td>
-                    </tr><!--end space height --><tr><!-- start COPY RIGHT content --><td valign="top" style="font-size: 13px; font-family: Arial, Tahoma, Helvetica, sans-serif; color: #ffffff; font-weight: normal; word-break: break-word; line-height: 24px;" align="center"><span style="color: #ffffff; font-style: normal; text-align: center; line-height: 24px; font-size: 13px; font-weight: 400; font-family: Arial, Tahoma, Helvetica, sans-serif;">HispanoRemesas,&nbsp;todos los derechos reservados 2018 © </span></td>
+                    </tr><!--end space height --><tr><!-- start COPY RIGHT content --><td valign="top" style="font-size: 13px; font-family: Arial, Tahoma, Helvetica, sans-serif; color: #ffffff; font-weight: normal; word-break: break-word; line-height: 24px;" align="center"><span style="color: #ffffff; font-style: normal; text-align: center; line-height: 24px; font-size: 13px; font-weight: 400; font-family: Arial, Tahoma, Helvetica, sans-serif;">remitter,&nbsp;todos los derechos reservados 2018 © </span></td>
                       <!-- end COPY RIGHT content -->
                     </tr><!--start space height --><tr><td height="10" style="height: 10px; font-size: 1px; line-height: 1px;"></td>
                     </tr><!--end space height --></table></td>

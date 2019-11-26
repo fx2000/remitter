@@ -65,7 +65,7 @@
                                             <?php
                                                 echo $this->Html->image(
                                                     'logobw.jpg', [
-                                                        'alt'   => __('HispanoRemesas'),
+                                                        'alt'   => __('remitter'),
                                                         'class' => 'avatar border-gray',
                                                         'style' => 'border-radius: 0px; border: 0px; height: 75px; margin-top:60px;'
                                                     ]

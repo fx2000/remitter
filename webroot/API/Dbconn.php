@@ -2,14 +2,13 @@
 /**
  * Database Configuration
  *
- * Plataforma de Administración de Remesas API
+ * Remitter API
  *
- * @copyright     Copyright (c) Fundación Duque de La Gomera, S.A. (http://www.duquedelagomera.com)
- * @link          http://par.hispanoremesas.com HispanoRemesas(tm) Project
  * @package       API
- * @since         PAR(tm) v 1.5.0
+ * @since         remitter(tm) v 1.5.0
  */
 require_once "vendor/autoload.php";
+include('config.php');
 
 class Dbconn {
 
@@ -26,10 +25,10 @@ class Dbconn {
     function Dbconn() {
 
         // PAR mysql credentials
-        $this->_dbServer = 'localhost';
-        $this->_uid = 'remesas';
-        $this->_pass = '1MuYazpmNx7pyBqB';
-        $this->_dbName = 'remesas';
+        $this->_dbServer = MYSQL_URL;
+        $this->_uid = MYSQL_USER;
+        $this->_pass = MYSQL_PASS;
+        $this->_dbName = MYSQL_DB;
         $this->_conn = @($GLOBALS["___mysqli_ston"] = mysqli_connect($this->_dbServer,  $this->_uid,  $this->_pass));
         ((bool)mysqli_set_charset( $this->_conn, "UTF8"));
 

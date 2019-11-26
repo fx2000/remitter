@@ -1,6 +1,6 @@
 {
-    "name": "hispanoremesas/api",
-    "description": "PAR API",
+    "name": "remitter/api",
+    "description": "Remitter API",
     "type": "library",
     "authors": [
         {

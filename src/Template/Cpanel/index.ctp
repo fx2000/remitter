@@ -5,7 +5,7 @@
         <!-- <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
         <link rel="icon" type="image/png" href="../assets/img/favicon.ico"> -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <title><?php echo __('HispanoRemesas | PAR'); ?></title>
+        <title><?php echo __('remitter'); ?></title>
         <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
         <!--     Fonts and icons     -->
         <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" /> -->
@@ -31,7 +31,7 @@
                 ?>
                 <h3>
                     <?php
-                        echo __('<b>Hispano</b>Remesas');
+                        echo __('<b>remitter</b>');
                     ?>
                 </h3>
                 <?php

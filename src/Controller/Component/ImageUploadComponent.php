@@ -1,10 +1,8 @@
 <?php
 /**
- * NOMBRE_SOFTWARE
- * Copyright (c) NOMBRE_EMPRESA
+ * remitter
  *
- * @copyright Copyright (c) NOMBRE_EMPRESA (URL_EMPRESA)
- * @link      URL_APLICACION
+ * @link      https://github.com/fx2000/remitter
  * @since     0.1
  */
 

@@ -56,24 +56,14 @@
                                     <?php
                                         echo $this->Html->image(
                                             'logobw.jpg', [
-                                                'alt'   => __('HispanoRemesas'),
+                                                'alt'   => __('remitter'),
                                                 'class' => 'avatar border-gray',
-                                                'style' => 'border-radius: 0px; border: 0px; height: 75px; margin-top:60px;'
+                                                'style' => 'border-radius: 0px; border: 0px; height: 100px; width: auto; margin-top:60px;'
                                             ]
                                         );
                                     ?>
                                 </td>
-                            </table>
-                        </div>
-                        <div>
-                            <table class="table" align="center">
-                                <tr><td>DuFer Holdings Group, Inc.</td></tr>
-                                <tr><td>RUC 155663383-2-2018 DV76</td></tr>
-                                <tr><td>Ave. Federico Boyd, PH DoubleTree Hilton, Local C11, El Carmen.</td></tr>
-                            </table>
-                        </div>
-                        <div>
-                            <table class="table" align="center">
+                                <tr><td><h1>remitter<h1></td></tr>
                                 <tr><td><strong>COMPROBANTE DE REMESA</strong></td></tr>
                                 <hr/>
                             </table>
@@ -145,9 +135,9 @@
                         <div>
                             <table class="table">
                                 <tr><td align="justify"><p>Nos esforzamos en procesar todas las remesas en menos de 48 horas luego de la fecha y hora especificada en este comprobante. No nos hacemos responsables por demoras ocasionadas por el sistema financiero del país destino.</p></td></tr>
-                                <tr><td align="justify"><p>Si tienes alguna duda o reclamo, llámanos al +507 385-0011, escríbenos por Whatsapp al +507 6218-1809 o por email a clientes@hispanoremesas.com, no olvides mencionar el número de operación en la parte superior de este documento.</p></td></tr>
-                                <tr><td align="justify"><p>Ocasionalmente HispanoRemesas enviará correos electrónicos a sus clientes para proporcionar información de tasas, noticias y otros servicios relacionados.</p></td></tr>
-                                <tr><td align="justify"><p>Con tu firma aceptas las condiciones reflejadas en este documento y las políticas establecidas por HispanoRemesas en su página web (https://www.hispanoremesas.com/terms.html).</p></td></tr>
+                                <tr><td align="justify"><p>Si tienes alguna duda o reclamo, llámanos al +XXX XXXX-XXXX, escríbenos por Whatsapp al +XXX XXXX-XXXX o por email a clientes@remitter.appstic.net, no olvides mencionar el número de operación en la parte superior de este documento.</p></td></tr>
+                                <tr><td align="justify"><p>Ocasionalmente remitter enviará correos electrónicos a sus clientes para proporcionar información de tasas, noticias y otros servicios relacionados.</p></td></tr>
+                                <tr><td align="justify"><p>Con tu firma aceptas las condiciones reflejadas en este documento y las políticas establecidas por remitter en su página web (https://remitter.appstic.net/terms.html).</p></td></tr>
                                 <tr><td align="justify"><p>  </p></td></tr>
                                 <tr><td align="justify"><p>Firma: __________________________________</p></td></tr>
                             </table>

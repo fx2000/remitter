@@ -2,16 +2,20 @@
 /**
  * API Configuration
  *
- * Plataforma de Administración de Remesas API
+ * Remitter API
  *
- * @copyright     Copyright (c) Fundación Duque de La Gomera, S.A. (http://www.duquedelagomera.com)
- * @link          http://par.hispanoremesas.com HispanoRemesas(tm) Project
  * @package       API
- * @since         PAR(tm) v 1.5.0
+ * @since         remitter(tm) v 1.5.0
  */
 
 // Server URL
-define('DOMAINURL','https://par.hispanoremesas.com/');
+define('DOMAINURL','https://remitter.appstic.net/');
+
+// MySQL Access
+define('MYSQL_URL', 'localhost');           // Replace with production values
+define('MYSQL_USER', 'remitter');           // Replace with production values
+define('MYSQL_DB', 'remitter');             // Replace with production values
+define('MYSQL_PASS', 'remitter');   // Replace with production values
 
 // Directories
 define('LOG_DIR', '/var/www/logs');
@@ -19,12 +23,12 @@ define('TEMPLATE_DIR', '/var/www/src/Template/Email/html');
 define('ROOT', '/var/www');
 
 // Set email parameters
-define('EMAIL_SERVER', 'ssl://premium39.web-hosting.com');
-define('EMAIL_FROM', 'noreply@hispanoremesas.com');
-define('EMAIL_USER', 'noreply@hispanoremesas.com');
-define('EMAIL_PASSWORD', ')WSRHHEwQ9{=');
-define('EMAIL_SENDER_NAME', 'HispanoRemesas');
-define('EMAIL_STAFF', 'admin@hispanoremesas.com');
+define('EMAIL_SERVER', 'ssl://premium39.web-hosting.com');  // Replace with production values
+define('EMAIL_FROM', 'noreply@remitter.appstic.net');       // Replace with production values
+define('EMAIL_USER', 'noreply@remitter.appstic.net');       // Replace with production values
+define('EMAIL_PASSWORD', ')WSRHHEwQ9{=');                   // Replace with production values
+define('EMAIL_SENDER_NAME', 'remitter');                    // Replace with production values
+define('EMAIL_STAFF', 'admin@remitter.appstic.net');        // Replace with production values
 
 // Set Payment Methods
 define('PAYMENT_CASH', 1);          // Cash
@@ -45,11 +49,11 @@ define('UNIT', 'TRX');                          // Available
 define('ARTICLE', 'Remesa Panamá->Venezuela');  // Available
 
 // Other Constants
-define('OPERATOR', '9999');                                                             // Punto Pago Operator ID
-define('COMPANY', 'HipanoRemesas');                                                     // Punto Pago Operator ID
-define('RUC', 'RUC 155663383-2-2018 DV76');                                             // Punto Pago Operator ID
-define('ADDRESS', 'Ave. Federico Boyd, PH DoubleTree Hilton, Local C11, El Carmen');    // Punto Pago Operator ID
-define('NOTES', 'Todas las remesas son efectuadas entre 24 y 48 horas hábiles luego de la fecha y hora especificada en este comprobante. HispanoRemesas no se hace responsable por demoras ocasionadas por el sistema financiero del país destino. Si tienes alguna duda o reclamo, llámanos al +507 385-0011, escríbenos por Whatsapp al +507 6218-1809 o por email a clientes@hispanoremesas.com, no olvides mencionar el número de operación en la parte superior de este documento. HispanoRemesas es el nombre comercial de DuFer Holdings Group Inc, una Casa de Remesas debidamente autorizada por el Ministerio de Comercio e Industrias mediante la resolución número 220 del 31 de julio de 2018.');           // Punto Pago Operator ID
+define('OPERATOR', '9999');                // Punto Pago Operator ID
+define('COMPANY', 'remitter');             // Punto Pago Operator ID
+define('RUC', 'RUC XXXXXX-X-XXXX XXXX');   // Punto Pago Operator ID
+define('ADDRESS', '30 Rock, NYC, NY.');    // Punto Pago Operator ID
+define('NOTES', 'Invoice notes here');     // Punto Pago Operator ID
 
 // Security
 define('SALT', 'e88aa5da787a1f01d6c7f8b6f83af847b04d92388deab83b49f478f799076df1'); // SHA1 salt

@@ -2,12 +2,10 @@
 /**
  * Get Recipients
  *
- * Plataforma de Administración de Remesas API
+ * remitter API
  *
- * @copyright     Copyright (c) Fundación Duque de La Gomera, S.A. (http://www.duquedelagomera.com)
- * @link          http://par.hispanoremesas.com HispanoRemesas(tm) Project
  * @package       API
- * @since         PAR(tm) v 1.5.0
+ * @since         remitter(tm) v 1.5.0
  */
 
 include "Request.GetRecipients.php";

@@ -1,10 +1,8 @@
 <?php
 /**
- * PLATAFORMA DE ADMINISTRACIÓN DE REMESAS
- * Copyright (c) Fundación Duque de La Gomera
+ * remitter
  *
- * @copyright Copyright (c) Fundación Duque de La Gomera (www.duquedelagomera.com)
- * @link      https://github.com/appstic/PAR
+ * @link      https://github.com/fx2000/remitter
  * @since     0.1
  */
 

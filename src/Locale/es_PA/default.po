@@ -780,8 +780,8 @@ msgid "Manage Users"
 msgstr "Gestionar Usuarios"
 
 #: Template/Cpanel/admin_index.ctp:19
-msgid "HispanoRemesas | PAR"
-msgstr "HispanoRemesas | PAR"
+msgid "remitter"
+msgstr "remitter"
 
 #: Template/Cpanel/admin_index.ctp:32
 msgid "Admin Login"
@@ -897,8 +897,8 @@ msgid "Currency Exchange Platform"
 msgstr "Plataforma de Administración de Remesas"
 
 #: Template/Cpanel/index.ctp:34
-msgid "<b>Hispano</b>Remesas"
-msgstr "<b>Hispano</b>Remesas"
+msgid "<b>remitter</b>"
+msgstr "<b>remitter</b>"
 
 #: Template/Cpanel/index.ctp:61
 msgid "Contraseña"

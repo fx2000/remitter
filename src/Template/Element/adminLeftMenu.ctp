@@ -30,13 +30,13 @@
                             echo $this->Html->image(
                                 'logoColorNoShadow.png',
                                 array(
-                                    'width' => '40'
+                                    'width' => '30'
                                 )
                             );
                         ?>
                     </td>
                     <td>
-                        <br><h5><b>&nbsp;<?php echo __('Hispano</b>Remesas'); ?></h5>
+                        <br><h3><b>&nbsp;<?php echo __('remitter</b>'); ?></h3>
                     </td>
                 </tr>
             </table>  

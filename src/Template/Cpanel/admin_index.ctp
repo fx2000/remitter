@@ -16,9 +16,9 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <?php echo $this->Html->charset(); ?>
-        <title><?php echo __('HispanoRemesas | PAR'); ?></title>
+        <title><?php echo __('remitter'); ?></title>
         <?php
-            echo $this->Html->css('bootstrap-cerulean');
+            echo $this->Html->css('bootstrap-slate');
             echo $this->Html->css('bootstrap-responsive');
             echo $this->Html->css('admin_style');
             echo $this->Html->script('livevalidation_standalone');

@@ -154,7 +154,7 @@ define('UPLOAD_SLIDESHOW_PATH', 'Uploads/SlideShow/');          // Path to uploa
 define('UPLOAD_BARCODE_PATH', 'Uploads/Barcode/');              // Path to upload barcode images
 define('EXPORT_REPORT_PATH', '../../app/webroot/reports/');     // Path to upload barcode images
 define('EXPORT_PATH', '../../app/webroot/uploads/');            // Path to export files
-define('EMAIL_ADDRESS', 'info@remesas.com');                    // Send From email address
+define('EMAIL_ADDRESS', 'noreply@remitter.appstic.net');                    // Send From email address
 define('TRX_USERNAME', '123456');                               // TRX Engine username
 define('TRX_PASSWORD', '123456');                               // TRX Engine password
 define('TRX_URL', 'http://xxx.xxx.xxx.xxx:xxxx');               // TRX Engine URL

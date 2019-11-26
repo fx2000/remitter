@@ -1,10 +1,8 @@
 <?php
 /**
- * PLATAFORMA DE ADMINISTRACIÓN DE REMESAS
- * Copyright (c) Fundación Duque de La Gomera
+ * remitter
  *
- * @copyright Copyright (c) Fundación Duque de La Gomera (www.duquedelagomera.com)
- * @link      https://github.com/appstic/PAR
+ * @link      https://github.com/fx2000/remitter
  * @since     0.1
  */
 
@@ -599,14 +597,14 @@ class RemittanceController extends AppController
                 // Send confirmation email
                 $this->getMailer('User')->send('remittance_received', [$remittance, $recipient_info[0], $client_info[0]]);
 
-                // Send mobile notification
+                // Uncomment this to send mobile notifications through Pushover
                 $http = new Client();
-                $response = $http->post('https://api.pushover.net/1/messages.json', [
-                    'token'   => 'anx1ivsh6289s1dn8t8cboids6mxoh',
-                    'user'    => 'uq6jg1j33et4s6w2paxjzhre31ug2w',
+                /* $response = $http->post('https://api.pushover.net/1/messages.json', [
+                    'token'   => '',
+                    'user'    => '',
                     'sound'   => 'cashregister',
                     'message' => 'El cliente '. $data['Invoice']['nombre'] . ' ha enviado la remesa ' . $remittance->id . ' por $' . number_format($remittance->amount, 2) . ' a ' . $bank_info[0]['name']
-                ]);
+                ]); */
 
                 $data['Invoice']['id_remesa'] = $remittance->id;
                 $data['Invoice']['nombre_articulo'] = 'Remesa Panamá->Venezuela' . str_pad(($data['Invoice']['id_remesa']), 6, "0", STR_PAD_LEFT);

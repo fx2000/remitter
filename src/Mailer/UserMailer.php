@@ -1,10 +1,8 @@
 <?php
 /**
- * PLATAFORMA DE ADMINISTRACIÓN DE REMESAS
- * Copyright (c) Fundación Duque de La Gomera
+ * remitter
  *
- * @copyright Copyright (c) Fundación Duque de La Gomera (www.duquedelagomera.com)
- * @link      https://github.com/appstic/PAR
+ * @link      https://github.com/fx2000/remitter
  * @since     0.1
  */
 
@@ -46,8 +44,8 @@ class UserMailer extends Mailer
         // Send email
         $this
             ->to($email, $fullname)
-            ->from('noreply@hispanoremesas.com', 'HispanoRemesas')
-            ->subject(sprintf('Bienvenido a HispanoRemesas %s', $name))
+            ->from('noreply@remitter.appstic.net', 'remitter')
+            ->subject(sprintf('Bienvenido a remitter %s', $name))
             ->template($template)
             ->emailFormat('html')
             ->viewVars([
@@ -204,7 +202,7 @@ class UserMailer extends Mailer
         // Send email
         $this
             ->to($email, $fullname)
-            ->from('noreply@hispanoremesas.com', 'HispanoRemesas')
+            ->from('noreply@remitter.appstic.net', 'remitter')
             ->subject(sprintf('%s, hemos recibido tu remesa correctamente', $client->fname1))
             ->template('remittance_received')
             ->emailFormat('html')
@@ -356,7 +354,7 @@ class UserMailer extends Mailer
         // Send email
         $this
             ->to($email, $fullname)
-            ->from('noreply@hispanoremesas.com', 'HispanoRemesas')
+            ->from('noreply@remitter.appstic.net', 'remitter')
             ->subject(sprintf('%s, tu remesa ha sido enviada con éxito', $client->fname1))
             ->template('remittance_sent')
             ->emailFormat('html')
@@ -504,7 +502,7 @@ class UserMailer extends Mailer
         // Send email
         $this
             ->to($email, $fullname)
-            ->from('noreply@hispanoremesas.com', 'HispanoRemesas')
+            ->from('noreply@remitter.appstic.net', 'remitter')
             ->subject(sprintf('%s, hemos recibido tu solicitud de pago', $investor->fname1))
             ->template('payment_received')
             ->emailFormat('html')
@@ -651,7 +649,7 @@ class UserMailer extends Mailer
         // Send email
         $this
             ->to($email, $fullname)
-            ->from('inversionistas@hispanoremesas.com', 'HispanoRemesas')
+            ->from('inversionistas@remitter.appstic.net', 'remitter')
             ->subject(sprintf('Gracias %s, haz completado una remesa con éxito', $investor->fname1))
             ->template('remittance_completed')
             ->emailFormat('html')
@@ -799,8 +797,8 @@ class UserMailer extends Mailer
 
         // Send email
         $this
-            ->to('inversionistas@hispanoremesas.com','HispanoRemesas')
-            ->from('noreply@hispanoremesas.com', 'HispanoRemesas')
+            ->to('inversionistas@remitter.appstic.net','remitter')
+            ->from('noreply@remitter.appstic.net', 'remitter')
             ->subject('Hay una nueva remesa pendiente por verificación')
             ->template('remittance_verification')
             ->emailFormat('html')
