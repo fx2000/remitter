@@ -8,4 +8,4 @@ Remitter is a web application designed for International Money Remittance operat
 
 It was developed under the LAMP stack (Linux, Apache, MySQL, PHP) using the [CakePHP framework](https://cakephp.org/) and the [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) template.
 
-A dump of the database schema, ready for import, is located in the [config/remitter.sql](https://github.com/fx2000/remitter/blob/master/config/remitter.sql) file. You can use "admin@remitter.appstic.net" and "123456" to log into the system for the first time.
+A dump of the database schema, ready for import, is located in the [config/remitter.sql](https://github.com/fx2000/remitter/blob/master/config/remitter.sql) file. You can use "admin" and "123456" to log into the system for the first time.

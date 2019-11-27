@@ -773,7 +773,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_type`, `assigned_to`, `fname1`, `fname2`, `lname1`, `lname2`, `email`, `password`, `pin`, `status`, `username`, `delete_status`, `login_status`, `uid`, `tax_id`, `passport`, `birthday`, `born_country`, `gender`, `profession`, `address`, `neighborhood`, `town`, `district`, `state`, `country`, `home_phone`, `mobile_phone`, `photo`, `photo_dir`, `register_dt`, `modified_dt`) VALUES
-(1, 1, NULL, 'Administrador', '', '', '', 'admin@remitter.appstic.net', '7c4a8d09ca3762af61e59520943dc26494f8941b', 2372, 1, 'admin', 0, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2018-10-04 13:31:49');
+(1, 1, NULL, 'Administrador', '', '', '', 'admin', '7c4a8d09ca3762af61e59520943dc26494f8941b', 2372, 1, 'admin', 0, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2018-10-04 13:31:49');
 
 --
 -- Indexes for dumped tables
